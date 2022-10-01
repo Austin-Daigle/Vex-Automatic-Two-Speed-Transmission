@@ -1,4 +1,4 @@
-## VexAutomaticTwoSpeedGearShift
+## Vex Automatic Two-Speed Automatic Transmission
 This successful experimental project was to make an automatic two-speed transition on the VEX EDR platform. The number of speeds that can be added to the VEX EDR platform is limited due to the sizes given of the gears versus the relative sizes of the metal housing and axles. However, high torque and high-speed gear shift modes are possible with the given mechanical engineering limitations within the platforms.
 
 ## Embedded Program Function:
