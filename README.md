@@ -9,6 +9,8 @@ This successful experimental project was to make an automatic two-speed transiti
 ## Embedded Program Function:
 The program embedded program written in RobotC (a derivative of the standard C programming language) has been compiled into machine code and loaded into the VEX EDR AMR Cortex Microcontroller. The microcontroller regulates and detects the gear alignment upon bootup and operation; if the gears are out of alignment (between gears, thus causing a mechanical malfunction), the microcontroller will automatically shift the gear system into first gear (high-torque). The program allows for the toggling of the primary motor and the gear shift function. Keep in mind that the gear shift cannot shift without the primary drive motor is on, so the microcontroller will temporarily start the drive and shift motors to shift the gears in any state. All functions, primary motor and gear shift, can be activated at any time during the gear shift operation, provided that the microcontroller is one. 
 
+
+
 ## Final Version of the Source Code:
 The final Release of the gear shift software as a repo link:
 
