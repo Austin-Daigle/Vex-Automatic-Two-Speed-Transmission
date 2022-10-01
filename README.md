@@ -10,4 +10,5 @@ The final Release of the gear shift software as a repo link:
 [VEX Robotics Gear Shift Software V.1.0 [Official Development].c](https://github.com/Austin-Daigle/VexAutomaticGearShift/blob/main/VEX%20Robotics%20Gear%20Shift%20Software%20V.1.0%20%5BOfficial%20Development%5D.c)
 
 ## Repository Developement Photo Album:
-[Project Photos (Project Directory)](https://github.com/Austin-Daigle/VexAutomaticGearShift/tree/main/ProjectPhotos)
+[Project Photos (GitHub Project Directory)](https://github.com/Austin-Daigle/VexAutomaticGearShift/tree/main/ProjectPhotos)
+
