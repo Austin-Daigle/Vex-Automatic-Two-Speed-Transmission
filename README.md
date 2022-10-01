@@ -1,5 +1,5 @@
 ## Vex Automatic Two-Speed Automatic Transmission
-This successful experimental project was to make an automatic two-speed transition on the VEX EDR platform. The number of speeds that can be added to the VEX EDR platform is limited due to the sizes given of the gears versus the relative sizes of the metal housing and axles. However, high torque and high-speed gear shift modes are possible with the given mechanical engineering limitations within the platforms.
+This successful experimental project was to make an automatic two-speed transition on the VEX EDR platform. The number of speeds that can be added to the VEX EDR platform is limited due to the sizes given of the gears versus the relative sizes of the metal housing and axles. However, high torque and high-speed gear shift modes are possible with the given mechanical engineering limitations within the platforms. I developed this gear shift as an independent engineering project as a junior in high school in 2017.
 
 ![gearshift photo 6](https://user-images.githubusercontent.com/100094056/193386797-682124fe-7750-46a4-9b52-05b378f6e941.jpeg)
 
