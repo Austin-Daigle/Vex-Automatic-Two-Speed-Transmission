@@ -22,6 +22,6 @@ The final Release of the gear shift software as a repo link:
 ## Repository Development Photo Album:
 [Project Photos Album (GitHub Project Directory)](https://github.com/Austin-Daigle/VexAutomaticGearShift/tree/main/ProjectPhotos)
 
-If there are size/compatibility issues with the images in the project images directory, an equivalent Google Album link has been linked:
-
 [Google Photos Project Album](https://photos.app.goo.gl/tgFzxvXfa6HkvTrv8)
+Google Album link(s) have been included along side the project photos directory incase there are issues regarding browser image size/compatibility.
+
